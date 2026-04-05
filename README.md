@@ -8,6 +8,7 @@
 ### 💼 Professional Profile
 * Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
   Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
+
   Research:** Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
   Focus:* Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
 
