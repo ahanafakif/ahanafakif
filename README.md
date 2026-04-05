@@ -2,20 +2,20 @@
 **Computer Science Student @ University of North Texas (4.0 GPA)** I am a software developer and researcher focused on cybersecurity, systems programming, and inclusive technology. I enjoy solving real-world technical problems and building high-performance, secure systems.
 
 ### 📄 Professional Documents
-* [cite_start]🔬 **[UR2PhD Research Paper: Accessibility in Computing](https://docs.google.com/document/d/1DfySb2lBrOy7neQ5EGod785aNAxp0GWJZ2HUB6eCNsQ/edit?usp=sharing)** — Exploring inclusive design and assistive technologies[cite: 1].
-* [cite_start]📄 **[Professional Resume](https://docs.google.com/document/d/1P5IMYLDPb6ySyoPMtSNL0byJLs4NGxfJ/edit?usp=sharing)** — Detailed history of my technical roles and skills[cite: 2].
+   🔬[UR2PhD Research Paper: Accessibility in Computing](https://docs.google.com/document/d/1DfySb2lBrOy7neQ5EGod785aNAxp0GWJZ2HUB6eCNsQ/edit?usp=sharing)** — Exploring inclusive design and assistive technologies[cite: 1].
+  📄 [Professional Resume](https://docs.google.com/document/d/1P5IMYLDPb6ySyoPMtSNL0byJLs4NGxfJ/edit?usp=sharing)** — Detailed history of my          technical roles and skills[cite: 2].
 
 ### 💼 Professional Profile
-* Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
-  Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
+  Current Role: Computer Technician at UNT Library Services (Feb 2026 – Present).
+  Key Focus: Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
 
-  Research:** Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
-  Focus:* Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
+  Research: Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
+  Focus: Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
 
 ### 💻 Technical Expertise
-* [cite_start]**Languages:** Python, C++, C#, JavaScript, Linux.
-* [cite_start]**CS Core:** Data Structures & Algorithms, Systems Programming, Cybersecurity, Software Engineering.
-* [cite_start]**Skills:** Troubleshooting, Network Support, System Maintenance, GitHub, Hardware Imaging.
+Languages:** Python, C++, C#, JavaScript, Linux.
+CS Core:** Data Structures & Algorithms, Systems Programming, Cybersecurity, Software Engineering.
+Skills:** Troubleshooting, Network Support, System Maintenance, GitHub, Hardware Imaging.
 
 ---
 
