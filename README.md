@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🎓 I am a Computer Science student at the University of North Texas with a strong interest in software development, cybersecurity, systems programming, and technical support. I enjoy solving real-world technical problems, supporting users, and building reliable systems that improve performance and security.<br><br>Currently, I maintain a 4.0 GPA while gaining hands-on experience through technical work, research, and collaborative software projects. I am passionate about continuous learning and applying my skills in practical environments.<br>💼 Current Role<br><br>Computer Technician — UNT Library Services<br>📍 University of North Texas | Feb 2026 – Present<br><br>In my current role, I provide front-line technical support to students, faculty, and staff across campus. This position has strengthened my troubleshooting, communication, and system administration skills.<br><br>Key responsibilities include:<br>	•	Diagnosing and resolving hardware and software issues<br>	•	Installing, configuring, and maintaining Windows and macOS systems<br>	•	Supporting printers, network connectivity, and campus applications<br>	•	Creating and managing helpdesk tickets<br>	•	Assisting with hardware setup, upgrades, and inventory management<br>	•	Following university IT security standards<br><br>This role allows me to work directly with real systems and users every day, building strong technical and problem-solving skills.<br><br>⸻<br><br>🔬 Research Experience<br><br>Undergraduate Researcher — UR2PhD Program<br>University of North Texas | Aug 2025 – Present<br><br>My research focuses on Accessibility in Computing, exploring how technology can be designed to be inclusive and user-centered.<br><br>Through this experience, I have developed skills in:<br>	•	Technical research and analysis<br>	•	Academic writing and documentation<br>	•	Collaboration in multidisciplinary teams<br>	•	Problem-solving and communication<br><br>⸻<br><br>💻 Technical Skills<br><br>Programming Languages<br>	•	Python<br>	•	C++<br>	•	C#<br>	•	JavaScript<br>	•	Linux<br><br>Technical Skills<br>	•	Troubleshooting & Technical Support<br>	•	Windows & macOS Systems<br>	•	Network Support<br>	•	Software Installation & System Maintenance<br>	•	Hardware Setup & Imaging<br>	•	GitHub<br>	•	Inventory Management<br><br>Core Computer Science Areas<br>	•	Data Structures & Algorithms<br>	•	Systems Programming<br>	•	Cybersecurity Foundations<br>	•	Software Engineering<br>	•	Operating Systems<br><br>⸻<br><br>🛠️ What I’m Working On<br>	•	Building software and system-level projects<br>	•	Improving troubleshooting and IT support workflows<br>	•	Learning advanced algorithms and system design<br>	•	Exploring cybersecurity and backend development<br><br>⸻<br><br>🎯 Career Goals<br><br>I am currently seeking opportunities in:<br>	•	Software Engineering Internships<br>	•	IT / Systems Engineering Roles<br>	•	Cybersecurity<br>	•	Backend Development<br>	•	Technical Support Engineering<br><br>I am especially interested in roles where I can apply both technical knowledge and real-world problem-solving skills.
 
-<!--
-**ahanafakif/ahanafakif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahanaf-akif-57a97928b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ahanaf akif Islam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahanafnafio@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahanafakif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahanafakif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafakif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahanafakif&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
