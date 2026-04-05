@@ -6,10 +6,10 @@
 * [cite_start]📄 **[Professional Resume](https://docs.google.com/document/d/1P5IMYLDPb6ySyoPMtSNL0byJLs4NGxfJ/edit?usp=sharing)** — Detailed history of my technical roles and skills[cite: 2].
 
 ### 💼 Professional Profile
-* [cite_start]**Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
-    * [cite_start]*Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
-* [cite_start]**Research:** Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
-    * [cite_start]*Focus:* Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
+* Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
+  Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
+  Research:** Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
+  Focus:* Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
 
 ### 💻 Technical Expertise
 * [cite_start]**Languages:** Python, C++, C#, JavaScript, Linux.
