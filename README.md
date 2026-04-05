@@ -1,17 +1,20 @@
 # 💫 About Me
-**Computer Science Student @ University of North Texas (4.0 GPA)**  
-I am a software developer and researcher focused on cybersecurity, systems programming, and inclusive technology. I enjoy solving real-world technical problems and building high-performance, secure systems.
+**Computer Science Student @ University of North Texas (4.0 GPA)** I am a software developer and researcher focused on cybersecurity, systems programming, and inclusive technology. I enjoy solving real-world technical problems and building high-performance, secure systems.
+
+### 📄 Professional Documents
+* [cite_start]🔬 **[UR2PhD Research Paper: Accessibility in Computing](https://docs.google.com/document/d/1DfySb2lBrOy7neQ5EGod785aNAxp0GWJZ2HUB6eCNsQ/edit?usp=sharing)** — Exploring inclusive design and assistive technologies[cite: 1].
+* [cite_start]📄 **[Professional Resume](https://docs.google.com/document/d/1P5IMYLDPb6ySyoPMtSNL0byJLs4NGxfJ/edit?usp=sharing)** — Detailed history of my technical roles and skills[cite: 2].
 
 ### 💼 Professional Profile
-* **Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
-    * *Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
-* **Research:** Undergraduate Researcher in the UR2PhD Program.
-    * *Focus:* Accessibility in Computing and inclusive technology design.
+* [cite_start]**Current Role:** Computer Technician at UNT Library Services (Feb 2026 – Present).
+    * [cite_start]*Key Focus:* Hardware/software diagnostics, system administration (Win/macOS), and university IT security.
+* [cite_start]**Research:** Undergraduate Researcher in the UR2PhD Program (Aug 2025 – Present).
+    * [cite_start]*Focus:* Researching accessibility barriers and tools like NVDA and VoiceOver to promote equitable computing[cite: 1].
 
 ### 💻 Technical Expertise
-* **Languages:** Python, C++, C#, JavaScript, Linux.
-* **CS Core:** Data Structures & Algorithms, Systems Programming, Cybersecurity, Software Engineering.
-* **Skills:** Troubleshooting, Network Support, System Maintenance, GitHub, Hardware Imaging.
+* [cite_start]**Languages:** Python, C++, C#, JavaScript, Linux.
+* [cite_start]**CS Core:** Data Structures & Algorithms, Systems Programming, Cybersecurity, Software Engineering.
+* [cite_start]**Skills:** Troubleshooting, Network Support, System Maintenance, GitHub, Hardware Imaging.
 
 ---
 
@@ -27,4 +30,4 @@ I am a software developer and researcher focused on cybersecurity, systems progr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafakif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahanafakif&icon=0&color=0)](https://visitcount.
+[![](https://visitcount.itsvg.in/api?id=ahanafakif&icon=0&color=0)](https://visitcount.itsvg.in)
